@@ -5,7 +5,7 @@
 <br>
 
 ## 🙋🏻‍♂️ About me
-- Hi, my name is Saad Khan form Michigan, USA
+- Hi, my name is Saad Khan from Michigan, USA
 - I am a Mechanical Engineer by profession
 - Currently completing my **MBA** with a focus on **Data Analytics**
 - I hold a keen interest not only in **Data Analytics** but also in **Buisness Intelligence**
