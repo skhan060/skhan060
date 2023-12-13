@@ -10,6 +10,16 @@
 - Currently completing my **MBA** with a focus on **Data Analytics**
 - I hold a keen interest not only in **Data Analytics** but also in **Buisness Intelligence**
 
+## 👥 Connect with me
+📩 **Email:** cric.observer@gmail.com
+💼 **LinkedIn:**
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hhuimin/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=minbean&style=flat-square&color=blue" alt=""/>
+
+
 <!---
 skhan060/skhan060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
