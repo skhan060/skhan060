@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Tableau-249DA9?style=for-the-badge&logo=Tableau&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-d04423?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-1d6f42?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">&nbsp;
    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">&nbsp;
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white">&nbsp;
