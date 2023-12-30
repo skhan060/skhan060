@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F12F7&random=false&width=435&lines=Hello+%26+Welcome+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F12F7&random=false&width=435&lines=Hello+%26+Welcome+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg) 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QX15lZJbifeQPzcNDt/giphy.gif" width="200"/> 
   <img src="https://media.giphy.com/media/QX15lZJbifeQPzcNDt/giphy.gif" width="200"/> 
