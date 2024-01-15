@@ -14,7 +14,7 @@
 - I hold a keen interest not only in **Data Analytics** but also in **Buisness Intelligence**
 
 ## 👥 Connect with me
-📩 **Email:** cric.observer@gmail.com
+📩 **Email:** saad.a.khan1991@gmail.com
 <br>
 
 💼 **LinkedIn:** <div id="badges">
